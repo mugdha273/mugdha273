@@ -10,6 +10,6 @@
 🌱 I’m currently learning Django  
 📫 How to reach me: mugdhasharma0327@gmail.com   
 ⚡ Fun fact: Big Fan of the ⚡ emoji
-<!-- Any image aligned to the right. Beware the width -->
+
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
