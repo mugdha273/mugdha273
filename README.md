@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mugdhasharma0327@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:mugdha0327@outlook.com)
 
-👀 I’m interested in Backend development  
+👀 I’m interested in Web development  
 🌱 I’m currently learning Django  
 📫 How to reach me: mugdhasharma0327@gmail.com   
 ⚡ Fun fact: Big Fan of the ⚡ emoji
