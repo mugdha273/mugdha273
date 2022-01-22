@@ -7,7 +7,7 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:mugdha0327@outlook.com)
 
 👀 I’m interested in Web development  
-🌱 I’m currently learning Django  
+🌱 I’m currently learning test driven development in Django Rest Framework! 
 📫 How to reach me: mugdhasharma0327@gmail.com   
 ⚡ Fun fact: Big Fan of the ⚡ emoji
 
