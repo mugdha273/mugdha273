@@ -9,7 +9,7 @@
 👀 I’m interested in Web development  
 🌱 I’m currently learning test driven development in Django Rest Framework!   
 📫 How to reach me: mugdhasharma0327@gmail.com   
-⚡ Fun fact: Big Fan of the ⚡ emoji
+⚡ Fun fact: Big Fan of the ✨ emoji
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
