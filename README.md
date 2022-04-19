@@ -8,7 +8,7 @@
 
 👀 I’m interested in Django Rest Framework  
 🌱 I’m currently focusing on polishing my DSA!   
-📫 How to reach me: mugdhasharma0327@gmail.com   
+📫 You can shoot me an email at mugdhasharma0327@gmail.com!    
 ⚡ Fun fact: In my spare time, I enjoy browsing some creative submissions on the Devfolio hackathon page.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
