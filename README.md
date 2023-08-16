@@ -4,7 +4,7 @@
 
 ## <img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/85048574/261039048-0c59c7b1-864c-4dbc-ad8e-4b5dbe3639dd.gif" height="32"> I’m Mugdha
 
-Connect with me:
+Let's make our connection stats maxed out on all channels::
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mugdha273)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mugdha-sharma-34a816200/)
@@ -17,7 +17,6 @@ Connect with me:
 🌱 I have a proficient three-year track record in Backend Development. I've used Django rest framework while working.   
 📫 You can shoot me an email at mugdhasharma0327@gmail.com!    
 ⚡ Fun fact: In my spare time, I enjoy browsing some creative submissions on the Devfolio hackathon page.  
-🔗 Let's make our connection stats maxed out on all channels: [linktr.ee/mugdhasharma](https://linktr.ee/mugdhasharma)
 
 
  ### 📚 Most Used Languages
